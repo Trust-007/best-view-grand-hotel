@@ -212,7 +212,7 @@
     		active: true,
 			smartSpeed: 1000,
 			autoplay: 6000,
-            navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+            navText: [ '<i class="fas fa-long-arrow-alt-right" ></i>', '<i class="fas fa-long-arrow-alt-right"></i>' ],
             responsive:{
                 0:{
                     items:1
@@ -239,7 +239,7 @@
 			nav:true,
 			smartSpeed: 500,
 			autoplay: 1000,
-			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+			navText: [ '<i class="fas fa-long-arrow-alt-right" ></i>', '<i class="fas fa-long-arrow-alt-right" ></i>' ],
 			responsive:{
 				0:{
 					items:1
@@ -270,7 +270,7 @@
 			nav:true,
 			smartSpeed: 500,
 			autoplay: 1000,
-			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+			navText: [ '<i class="fas fa-long-arrow-alt-right" ></i>', '<i class="fas fa-long-arrow-alt-right" ></i>' ],
 			responsive:{
 				0:{
 					items:1
@@ -301,7 +301,7 @@
 			nav:true,
 			smartSpeed: 500,
 			autoplay: 1000,
-			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+			navText: [ '<i class="fas fa-long-arrow-alt-right" ></i>', '<i class="fas fa-long-arrow-alt-right" ></i>' ],
 			responsive:{
 				0:{
 					items:1
@@ -332,7 +332,7 @@
 			nav:true,
 			smartSpeed: 500,
 			autoplay: 1000,
-			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+			navText: [ '<i class="fas fa-long-arrow-alt-right" ></i>', '<i class="fas fa-long-arrow-alt-right" ></i>' ],
 			responsive:{
 				0:{
 					items:1
@@ -363,7 +363,7 @@
 			nav:true,
 			smartSpeed: 500,
 			autoplay: 1000,
-			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+			navText: [ '<i class="fas fa-long-arrow-alt-right" ></i>', '<i class="fas fa-long-arrow-alt-right" ></i>' ],
 			responsive:{
 				0:{
 					items:1
@@ -394,7 +394,7 @@
 			nav:true,
 			smartSpeed: 500,
 			autoplay: 1000,
-			navText: [ '<span class="flaticon-thin-right-straight-arrow"></span>', '<span class="flaticon-thin-right-straight-arrow"></span>' ],
+			navText: [ '<i class="fas fa-long-arrow-alt-right" ></i>', '<i class="fas fa-long-arrow-alt-right" ></i>' ],
 			responsive:{
 				0:{
 					items:1
